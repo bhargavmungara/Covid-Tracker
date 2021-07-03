@@ -1,0 +1,11 @@
+.formControl {
+  background-color: rgba(87, 252, 255, 0.6);
+  color: black;
+  border-radius: 5px;
+  width: 30%;
+  margin-bottom: 30px !important;
+}
+
+select option {
+  background-color: rgb(153, 221, 226) !important;
+}

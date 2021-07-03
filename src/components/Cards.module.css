@@ -1,0 +1,32 @@
+.container {
+  margin: 50px 0;
+}
+
+.card {
+  margin: 0 2% !important;
+  border-radius: 30px !important;
+  box-shadow: 3px 3px 3px 3px rgb(54, 54, 54);
+  border: 2px solid #b6b6b6;
+}
+
+.heading {
+  color: #000 !important;
+}
+
+.infected {
+  background-color: rgb(233, 183, 90) !important;
+}
+
+.recovered {
+  background-color: rgb(93, 211, 93) !important;
+}
+
+.deaths {
+  background-color: rgb(235, 74, 74) !important;
+}
+
+@media only screen and (max-width: 770px) {
+  .card {
+    margin: 2% 20px !important;
+  }
+}
